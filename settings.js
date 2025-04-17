@@ -15,7 +15,7 @@ WhatsApp Me : 263780166288
 require("./all/module.js")
 
 //========== Setting Owner ==========//
-global.owner = "263780166288"
+global.owner = "2349066919409"
 global.namaowner = "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
 global.namaowner2 = "ʟᴏʀᴅ ᴍᴀʟᴠɪɴ"
 
